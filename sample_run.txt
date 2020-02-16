@@ -1,0 +1,36 @@
+Performing runs for SELECTION SORT
+Printing stats for size 10
+Number of swaps 0, 5, 7, 7 ---> 10.600000
+Number of comparisons 45, 45, 45, 45 ---> 36.000000
+Printing stats for size 100
+Number of swaps 0, 50, 95, 94 ---> 54.600000
+Number of comparisons 4950, 4950, 4950, 4950 ---> 3960.000000
+Printing stats for size 1000
+Number of swaps 0, 500, 995, 995 ---> 504.800000
+Number of comparisons 499500, 499500, 499500, 499500 ---> 399600.000000
+Printing stats for size 10000
+Number of swaps 0, 5000, 9992, 9991 ---> 5003.400000
+Number of comparisons 49995000, 49995000, 49995000, 49995000 ---> 39996000.000000
+Printing stats for size 100000
+Number of swaps 0, 50000, 99985, 99988 ---> 50001.400000
+Number of comparisons 704982704, 704982704, 704982704, 704982704 ---> 563986163.200000
+COMPLETE!
+
+
+Performing runs for RECURSIVE QSORT
+Printing stats for size 10
+Number of swaps 9, 9, 9, 11 ---> 14.600000
+Number of comparisons 63, 58, 34, 34 ---> 37.800000
+Printing stats for size 100
+Number of swaps 99, 99, 167, 160 ---> 112.000000
+Number of comparisons 5148, 5098, 785, 709 ---> 2348.000000
+Printing stats for size 1000
+Number of swaps 999, 999, 2402, 2408 ---> 1368.600000
+Number of comparisons 501498, 500998, 11521, 11714 ---> 205146.200000
+Printing stats for size 10000
+Number of swaps 9999, 9999, 31698, 31324 ---> 16611.000000
+Number of comparisons 50014998, 50009998, 159923, 168853 ---> 20070754.400000
+Printing stats for size 100000
+Number of swaps 99999, 99999, 395169, 393995 ---> 197839.400000
+Number of comparisons 705182702, 705132702, 2050425, 2060835 ---> 282885332.800000
+COMPLETE!
